@@ -1,1 +1,1 @@
-# bitarray
+# Bit Array project
